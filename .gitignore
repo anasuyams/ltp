@@ -12,7 +12,7 @@ lib*.a
 /aclocal.m4
 autom4te.cache
 /configure
-/config.guess
+#/config.guess
 /config.log
 /config.mk
 /config.status
